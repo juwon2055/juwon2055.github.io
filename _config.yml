@@ -4,7 +4,7 @@ email: juwon2055@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   안녕하세요 장주원입니다.
 # baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://juwon2055.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
 instagram_username: juwonn2055
