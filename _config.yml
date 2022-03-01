@@ -1,8 +1,8 @@
 # Site settings
-title: "juwon"
+title: "JUWON"
 email: juwon2055@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  supported by <a href = "https://blog.jcy1511.com"> 심인고 2-3 장찬영</a> 
+# description: > # this means to ignore newlines until "baseurl:"
+#   supported by <a href = "https://blog.jcy1511.com"> 심인고 2-3 장찬영</a> 
 # baseurl: "/urban-theme" # the subpath of your site, e.g. /blog
 url: "https://juwon2055.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
