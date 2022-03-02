@@ -4,4 +4,4 @@ title: 장주원
 permalink: /about/
 ---
 
-qwewqrasf
+2005.11.28
