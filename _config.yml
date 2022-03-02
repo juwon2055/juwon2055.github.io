@@ -1,5 +1,5 @@
 # Site settings
-title: "JUWON"
+title: "juwon"
 email: juwon2055@gmail.com
 # description: > # this means to ignore newlines until "baseurl:"
 #   supported by <a href = "https://blog.jcy1511.com"> 심인고 2-3 장찬영</a> 
@@ -12,3 +12,4 @@ instagram_username: juwonn2055
 # Build settings
 markdown: kramdown
 permalink: pretty
+timezone: "Asia/Seoul"
